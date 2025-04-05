@@ -13,7 +13,7 @@
 
 - 🙋 **역할**: 모델 설계, 데이터 전처리, 추론 파이프라인 개발
 - 🎯 **목표**: 영유아의 질식 위험 상황을 사전에 감지해 생명을 보호하는 AI 솔루션 구축
-- 🛠 **기술 스택**: PyTorch, YOLOv5, Roboflow, Azure Machine Learning
+- 🛠 **기술 스택**: PyTorch, YOLOv8, Roboflow, Azure Machine Learning
 
 ---
 
@@ -45,8 +45,8 @@
 
 ## 🎬 시연 영상
 
-[YOLOv5 시연 영상 보기](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)  
-[Gradio 웹 데모 보기](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
+[앱 시연 영상 보기](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)  
+[Gradio 웹 보기](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
 
 
 ## 📜 라이선스
