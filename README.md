@@ -1,4 +1,4 @@
-# 👶 Safe13Baby: 질식사 방지 AI
+# 👶 Safe13Baby: 영유아 질식사 방지 AI
 
 > 영유아의 질식 사고를 사전에 감지하는 객체 탐지 기반 AI 모델
 
@@ -8,7 +8,18 @@
 
 ---
 
+## ✨ 프로젝트 요약
+
+- 🙋 **역할**: 모델 설계, 데이터 전처리, 추론 파이프라인 개발
+- 🎯 **목표**: 영유아의 질식 위험 상황을 사전에 감지해 생명을 보호하는 AI 솔루션 구축
+- 🛠 **기술 스택**: PyTorch, YOLOv5, Roboflow, Azure Machine Learning
+
+---
+
 ## 🧸 프로젝트 개요
+
+> 바쁜 사람을 위한 한 줄 요약:  
+> **객체 탐지를 활용하여 위험 자세를 실시간 인식하고, 질식사 가능성을 줄이기 위한 AI 솔루션입니다.**
 
 <details>
 <summary>클릭해서 전체 보기 👀</summary>
@@ -17,36 +28,15 @@
 
 ### 📍 주제 및 기획의도
 
-<!-- 1. 구조 -->
+<!-- 이미지들 -->
 <p align="center">
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B5%AC%EC%A1%B0.jpg" alt="프로젝트 구조" width="100%"/>
-</p>
-
-<!-- 2. 기대효과 -->
-<p align="center">
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%EB%8C%80%ED%9A%A8%EA%B3%BC.jpg" alt="기대효과" width="100%"/>
-</p>
-
-<!-- 3. 기획의도 1 -->
-<p align="center">
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%ED%9A%8D%EC%9D%98%EB%8F%84%201.jpg" alt="기획의도 1" width="100%"/>
-</p>
-
-<!-- 4. 기획의도 2 -->
-<p align="center">
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%ED%9A%8D%EC%9D%98%EB%8F%84%202.jpg" alt="기획의도 2" width="100%"/>
-</p>
-
-<!-- 5. 내용 1 -->
-<p align="center">
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EB%82%B4%EC%9A%A9%201.jpg" alt="내용 1" width="100%"/>
-</p>
-
-<!-- 6. 내용 2 -->
-<p align="center">
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EB%82%B4%EC%9A%A9%202.jpg" alt="내용 2" width="100%"/>
 </p>
-
 
 </details>
 
@@ -54,9 +44,10 @@
 
 ## ✅ 주요 기능
 
-- 위험 자세(엎드림, 가림 등) 탐지
-- 객체 탐지 기반 모델 (YOLOv5)
-- Azure ML을 활용한 모델 배포 파이프라인
+- ✅ YOLOv5 기반의 위험 자세 객체 탐지
+- ✅ Azure ML을 통한 클라우드 학습 및 배포
+- ✅ Roboflow로 라벨링 및 Augmentation 자동화
+- ✅ 실시간 테스트 환경 구성 (Webcam 기반)
 
 ---
 
@@ -64,9 +55,10 @@
 
 | 범주 | 기술 |
 |------|------|
+| 언어 | Python |
 | 딥러닝 | PyTorch, YOLOv5 |
+| 데이터 | Roboflow |
 | 클라우드 | Azure Machine Learning |
-| 데이터 | Roboflow (Augmentation + 관리) |
 | 기타 | OpenCV, GitHub, VS Code |
 
 ---
@@ -75,10 +67,9 @@
 
 ```bash
 MakeModel/
-│
 ├── dataset/           # 데이터셋 및 전처리
 ├── training/          # 모델 학습 코드
 ├── inference/         # 실시간 추론 코드
-├── images/            # 시각화용 예시 이미지
+├── images/            # 결과 시각화 이미지
 ├── README.md
 └── requirements.txt
