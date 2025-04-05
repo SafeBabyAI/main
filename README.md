@@ -31,12 +31,12 @@
 
 <!-- 이미지들 -->
 <p align="center">
-  <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B5%AC%EC%A1%B0.jpg" alt="프로젝트 구조" width="100%"/>
-  <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%EB%8C%80%ED%9A%A8%EA%B3%BC.jpg" alt="기대효과" width="100%"/>
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%ED%9A%8D%EC%9D%98%EB%8F%84%201.jpg" alt="기획의도 1" width="100%"/>
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%ED%9A%8D%EC%9D%98%EB%8F%84%202.jpg" alt="기획의도 2" width="100%"/>
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EB%82%B4%EC%9A%A9%201.jpg" alt="내용 1" width="100%"/>
   <img src="https://github.com/SafeBabyAI/main/raw/main/%EB%82%B4%EC%9A%A9%202.jpg" alt="내용 2" width="100%"/>
+  <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B8%B0%EB%8C%80%ED%9A%A8%EA%B3%BC.jpg" alt="기대효과" width="100%"/>
+  <img src="https://github.com/SafeBabyAI/main/raw/main/%EA%B5%AC%EC%A1%B0.jpg" alt="프로젝트 구조" width="100%"/>
 </p>
 
 </details>
