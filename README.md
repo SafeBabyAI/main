@@ -4,7 +4,7 @@
 > 영유아의 질식 사고를 사전에 감지하는 객체 탐지 기반 AI 모델
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLOv5](https://img.shields.io/badge/YOLOv5-FFBF00?style=flat-square&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FFBF00?style=flat-square&logo=yolo&logoColor=black)
 ![AzureML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ---
