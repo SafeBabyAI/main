@@ -44,19 +44,9 @@
 
 ## 🎬 시연 영상
 
-### 🧠 YOLOv5 실시간 감지 데모
+[YOLOv5 시연 영상 보기](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)  
+[Gradio 웹 데모 보기](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
 
-[![YOLOv5 Demo](https://github.com/SafeBabyAI/main/raw/main/demo_thumbnail_yolo.png)](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)
-
-> 🔗 Google Drive에서 영상 보기: [여기 클릭](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)
-
----
-
-### 🌐 Gradio 웹 인터페이스 시연
-
-[![Gradio Demo](https://github.com/SafeBabyAI/main/raw/main/demo_thumbnail_gradio.png)](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
-
-> 🔗 Google Drive에서 영상 보기: [여기 클릭](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
 
 ## 📜 라이선스
 
