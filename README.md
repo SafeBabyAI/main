@@ -59,7 +59,7 @@
 
 ## ✅ 주요 기능
 
-- ✅ YOLOv5 기반의 위험 자세 객체 탐지
+- ✅ YOLOv8 기반의 위험 자세 객체 탐지
 - ✅ Azure ML을 통한 클라우드 학습 및 배포
 - ✅ Roboflow로 라벨링 및 Augmentation 자동화
 - ✅ 실시간 테스트 환경 구성 (Webcam 기반)
@@ -71,7 +71,7 @@
 | 범주 | 기술 |
 |------|------|
 | 언어 | Python |
-| 딥러닝 | PyTorch, YOLOv5 |
+| 딥러닝 | PyTorch, YOLOv8 |
 | 데이터 | Roboflow |
 | 클라우드 | Azure Machine Learning |
 | 기타 | OpenCV, GitHub, VS Code |
