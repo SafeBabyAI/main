@@ -44,19 +44,19 @@
 
 ## 🎬 시연 영상
 
-### 🧠 실시간 모델 감지 (YOLOv5 + Webcam)
+### 🧠 YOLOv5 실시간 감지 데모
 
-> 영유아의 위험 자세를 실시간으로 탐지하는 장면입니다.
+[![YOLOv5 Demo](https://github.com/SafeBabyAI/main/raw/main/demo_thumbnail_yolo.png)](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)
 
-<video src="https://github.com/SafeBabyAI/main/raw/main/safe13baby_demo.mp4" controls width="100%"></video>](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)
+> 🔗 Google Drive에서 영상 보기: [여기 클릭](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)
 
 ---
 
-### 🌐 Gradio 웹 인터페이스 데모
+### 🌐 Gradio 웹 인터페이스 시연
 
-> 업로드된 이미지를 기반으로 객체 탐지 결과를 시각화한 웹 서비스입니다.
+[![Gradio Demo](https://github.com/SafeBabyAI/main/raw/main/demo_thumbnail_gradio.png)](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
 
-<video src="https://github.com/SafeBabyAI/main/raw/main/safe13baby_gradio.mp4" controls width="100%"></video>
+> 🔗 Google Drive에서 영상 보기: [여기 클릭](https://drive.google.com/file/d/1KEVt9QPiLnpfwkzKy35ioaZOl2VyqNc2/view?usp=sharing)
 
 ## 📜 라이선스
 
