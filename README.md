@@ -1,4 +1,4 @@
-#  # <img src="https://github.com/SafeBabyAI/main/raw/main/safebaby_logo.png" width="30" style="vertical-align: middle;"/> Safe13Baby: 영유아 질식사 방지 AI
+#  # <img src="https://github.com/SafeBabyAI/main/raw/main/safebaby_logo.png" width="60" style="vertical-align: middle;"/> SafeBaby: 영유아 질식사 방지 AI
 
 
 > 영유아의 질식 사고를 사전에 감지하는 객체 탐지 기반 AI 모델
