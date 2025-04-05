@@ -48,7 +48,7 @@
 
 > 영유아의 위험 자세를 실시간으로 탐지하는 장면입니다.
 
-<video src="https://github.com/SafeBabyAI/main/raw/main/safe13baby_demo.mp4" controls width="100%"></video>
+<video src="https://github.com/SafeBabyAI/main/raw/main/safe13baby_demo.mp4" controls width="100%"></video>](https://drive.google.com/file/d/1rIH-W9RkA5G87RwHsfuTyewCOeKCIqxq/view?usp=sharing)
 
 ---
 
