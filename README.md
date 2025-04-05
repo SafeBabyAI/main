@@ -17,7 +17,7 @@
 
 ### 📍 주제 및 기획의도
 
-<img src="https://[github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2001.png?raw=true](https://github.com/SafeBabyAI/main/blob/main/%EA%B8%B0%ED%9A%8D%EC%9D%98%EB%8F%84%201.jpg)" width="100%"/>
+<img src="[https://https://github.com/SafeBabyAI/main/blob/main/%EA%B8%B0%ED%9A%8D%EC%9D%98%EB%8F%84%201.jpg?raw=true" width="100%"/>
 <img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2002.png?raw=true" width="100%"/>
 <img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2003.png?raw=true" width="100%"/>
 <img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2004.png?raw=true" width="100%"/>
