@@ -8,11 +8,21 @@
 
 ---
 
-## 📂 프로젝트 개요
+## 🧸 프로젝트 개요
 
-Safe13Baby는 영유아가 자는 자세나 환경에서 발생할 수 있는 **질식 위험 상황을 사전에 감지**하는  
-AI 모델을 개발하기 위한 프로젝트입니다.  
-실시간 객체 탐지 기반으로 위험 자세를 판별하고, 추후에는 알림 시스템과도 연동할 수 있도록 설계되었습니다.
+<details>
+<summary>클릭해서 전체 보기 👀</summary>
+
+<br/>
+
+### 📍 주제 및 기획의도
+
+<img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2001.png?raw=true" width="100%"/>
+<img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2002.png?raw=true" width="100%"/>
+<img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2003.png?raw=true" width="100%"/>
+<img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2004.png?raw=true" width="100%"/>
+
+</details>
 
 ---
 
