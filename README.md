@@ -19,8 +19,8 @@
 
 <img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2001.png?raw=true" width="100%"/>
 <img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2002.png?raw=true" width="100%"/>
-<img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2003.png?raw=true" width="100%"/>
-<img src="https://github.com/SafeBabyAI/main/blob/main/%EA%B0%9C%EC%9A%94%2004.png?raw=true" width="100%"/>
+<img src="https://github.com/SafeBabyAI/main/blob/main/%EB%82%B4%EC%9A%A9%2001.png?raw=true" width="100%"/>
+<img src="https://github.com/SafeBabyAI/main/blob/main/%EB%82%B4%EC%9A%A9%2002.png?raw=true" width="100%"/>
 
 </details>
 
